@@ -1,0 +1,20 @@
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+  
+  .dg.ac {
+     	top:41px !important;
+     	}
+     	
+     	.dg.a {
+margin-right: 0px !important;
+}
+
+.box {
+    position:relative;
+}
+#map {
+    position:absolute;
+    bottom:0;
+    right:0;
+} 
